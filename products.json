@@ -1,0 +1,45 @@
+"items": [
+{
+	"sys": {"id": "1"},
+	"fields": {
+		"title": "Green Gram ",
+		"price": "95/Kg",
+		"image": { "fields": { "file": { "url": "greengram.jpg" } } }
+	}
+},
+{
+	"sys": {"id": "2"},
+	"fields": {
+		"title": "Sesame Seeds ",
+		"price": "110/Kg",
+		"image": { "fields": { "file": { "url": "sesame.jpg" } } }
+},
+{
+	"sys": {"id": "3"},
+	"fields": {
+		"title": "Bengal Gram ",
+		"price": "120/Kg",
+		"image": { "fields": { "file": { "url": "Bengal.jpg" } } }
+},
+{
+	"sys": {"id": "4"},
+	"fields": {
+		"title": "Fennel Seeds ",
+		"price": "75/Kg",
+		"image": { "fields": { "file": { "url": "fennel.jpg" } } }
+},
+{
+	"sys": {"id": "5"},
+	"fields": {
+		"title": "Dehusked Black Gram ",
+		"price": "105/Kg",
+		"image": { "fields": { "file": { "url": "urad.jpg" } } }
+},
+{
+	"sys": {"id": "6"},
+	"fields": {
+		"title": "Gram Flour ",
+		"price": "30/Kg",
+		"image": { "fields": { "file": { "url": "gramflour.jpg" } } }
+}
+]
