@@ -1,0 +1,13 @@
+Visual Studio Code
+-------------------
+Enabled Extensions:
+* Bracket Pair Colorizer
+* ES7 React/Redux/GraphQL/React-Native
+* Highlight Matching Tag
+* indent-rainbow
+* Live Server
+* Pretter-Code formatter
+------------------------------
+* Create new folder ProjectName
+* Open Visual Studio Code
+* Create files index.html, styles.css, app.js.
